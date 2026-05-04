@@ -1,0 +1,13 @@
+Metric,Value
+Epidemic Potential,High
+System Stability,Fast convergence
+Convergence Speed,Very Fast
+R0 Value,3.0000
+Dominant Eigenvalue,1.000000
+Spectral Radius,1.000000
+Steady State S,0.333333
+Steady State I,0.333333
+Steady State R,0.333333
+Optimal Rank (95% variance),1
+Compression Ratio,0.8889
+Reconstruction Error,0.026606
